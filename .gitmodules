@@ -1,3 +1,6 @@
 [submodule "holden_BE"]
 	path = holden_BE
 	url = https://github.com/du-ru-DuRu/holden_BE.git
+[submodule "holden_frontend"]
+	path = holden_frontend
+	url = https://github.com/du-ru-DuRu/holden_frontend.git
